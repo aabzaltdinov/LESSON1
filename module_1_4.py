@@ -1,4 +1,4 @@
-my_string=input('как тебя зовут? ')
+my_string=input('напиши фамилию имя отчество: ')
 print(my_string.upper())
 print(my_string.lower())
 print(my_string.replace(' ', ''))
